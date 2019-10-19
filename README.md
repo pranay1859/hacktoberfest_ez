@@ -3,7 +3,13 @@
 Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktoberfest.digitalocean.com/) every year!
 
 ## Step to Pull Request
-Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest  
+1. Fork
+2. Clone the project
+3. Create new branch, usually, the name of new branch should start with issue number
+4. Make changes
+5. Commit
+6. Push
+7. Pull Request
 
 ## PR Ideas
 - Add ideas to this repo! 😂
